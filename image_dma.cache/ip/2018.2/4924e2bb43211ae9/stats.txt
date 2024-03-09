@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Fri Mar 08 09:30:10 UTC 2024
+VLNV: xilinx.com:user:inverter:1.0
+SynthRuntime: 30
